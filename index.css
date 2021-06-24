@@ -20,4 +20,12 @@ footer {
   background-color: #DAEEEF;
   height: 100%;
   width: 100%;
+  flex-shrink: 3;
+}
+
+.flex-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
 }
