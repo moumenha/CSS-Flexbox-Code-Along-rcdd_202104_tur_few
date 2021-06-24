@@ -30,6 +30,7 @@ main {
 footer {
   background-color: #DAEEEF;
   width: 100%;
+  flex-shrink: 3;
 }
 
 .flex-container {
